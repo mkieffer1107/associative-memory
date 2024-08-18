@@ -11,7 +11,7 @@ I was *attracted* to artificial neural nets by their *association* with real neu
 ### TL;DR:
 
 #### Hopfield Networks
-> Coming Soon [🔗](notes/hopfield.ipynb)
+> [Coming Soon 🔗](notes/hopfield.ipynb)
 
 #### Boltzmann Machines
 ![underconstruction](./underconstruction.gif)
