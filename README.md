@@ -11,12 +11,12 @@ I was *attracted* to artificial neural nets by their *association* with real neu
 ### TL;DR:
 
 #### Hopfield Networks
-> Coming Soon
+> Coming Soon [🔗](notes/hopfield.ipynb)
 
 #### Boltzmann Machines
-> Coming Soon
+![underconstruction](./underconstruction.gif)
 
 #### Restricted Boltzmann Machines
-> Coming Soon
+![underconstruction](./underconstruction.gif)
 
 
