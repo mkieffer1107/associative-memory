@@ -18,3 +18,5 @@ I was *attracted* to artificial neural nets by their *association* with real neu
 
 #### Restricted Boltzmann Machines
 > Coming Soon
+
+

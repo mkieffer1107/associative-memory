@@ -1,4 +1,6 @@
-class HopfieldNet:
+from .base import BaseModel
+
+class HopfieldNet(BaseModel):
     def __init__(self):
         ...
 

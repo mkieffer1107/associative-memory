@@ -1,8 +1,10 @@
-class BoltzmannMachine:
+from .base import BaseModel
+
+class BoltzmannMachine(BaseModel):
     def __init__(self):
         ...
 
-class RestrictedBM:
+class RestrictedBM(BaseModel):
     def __init__(self):
         ...
 
